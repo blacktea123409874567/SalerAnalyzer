@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\линкью\линкью\obj\Debug\net8.0\линкью.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\линкью\линкью\obj\Debug\net8.0\линкью.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\линкью\линкью\obj\Debug\net8.0\линкью.AssemblyInfo.cs
+C:\Users\User\source\repos\линкью\линкью\obj\Debug\net8.0\линкью.csproj.CoreCompileInputs.cache
